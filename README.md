@@ -1,0 +1,1 @@
+This is a gradle plugin to ease the installation of native applications written in Kotlin/Native
