@@ -1,4 +1,4 @@
-package com.panayotis.gradle.clsmng;
+package is.yot.gradle.clsmng;
 
 import java.util.Objects;
 

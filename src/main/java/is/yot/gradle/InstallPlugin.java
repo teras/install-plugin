@@ -1,6 +1,6 @@
-package com.panayotis.gradle;
+package is.yot.gradle;
 
-import com.panayotis.gradle.shadows.KotlinMultiplatformExtensionS;
+import is.yot.gradle.shadows.KotlinMultiplatformExtensionS;
 import org.gradle.api.Plugin;
 import org.gradle.api.Project;
 import org.gradle.api.Task;

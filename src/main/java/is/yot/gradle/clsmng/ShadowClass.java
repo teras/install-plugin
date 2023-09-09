@@ -1,6 +1,6 @@
-package com.panayotis.gradle.clsmng;
+package is.yot.gradle.clsmng;
 
-import com.panayotis.gradle.InstallException;
+import is.yot.gradle.InstallException;
 
 public final class ShadowClass {
     private final Class<?> cls;

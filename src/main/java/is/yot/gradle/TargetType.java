@@ -1,4 +1,4 @@
-package com.panayotis.gradle;
+package is.yot.gradle;
 
 import java.io.File;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package com.panayotis.gradle;
+package is.yot.gradle;
 
 public class InstallException extends RuntimeException {
     public InstallException(String reason) {

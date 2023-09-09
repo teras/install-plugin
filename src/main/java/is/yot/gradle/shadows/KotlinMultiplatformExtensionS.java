@@ -1,7 +1,7 @@
-package com.panayotis.gradle.shadows;
+package is.yot.gradle.shadows;
 
-import com.panayotis.gradle.clsmng.Shadow;
-import com.panayotis.gradle.clsmng.ShadowClass;
+import is.yot.gradle.clsmng.Shadow;
+import is.yot.gradle.clsmng.ShadowClass;
 
 import java.util.Collection;
 
